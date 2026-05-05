@@ -4,7 +4,7 @@ OMT Global is a software portfolio focused on practical systems: home automation
 
 The organization is intentionally small and operator-led. Repositories are used to turn repeatable workflows into inspectable software, with an emphasis on durable automation, clear operational boundaries, and tools that can be maintained by both humans and agents.
 
-[Visit the OMT Global landing page](https://omt-assist.org).
+[Visit the OMT Global landing page](https://omt-assist.org/omt-global).
 
 ## Major Public Repositories
 
