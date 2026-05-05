@@ -4,6 +4,8 @@ OMT Global is a software portfolio focused on practical systems: home automation
 
 The organization is intentionally small and operator-led. Repositories are used to turn repeatable workflows into inspectable software, with an emphasis on durable automation, clear operational boundaries, and tools that can be maintained by both humans and agents.
 
+[Visit the OMT Global landing page](https://omt-assist.org).
+
 ## Major Public Repositories
 
 - [bootstrap](https://github.com/OMT-Global/bootstrap) - Manifest-first control plane for repository scaffolding, GitHub governance, and portable agent profiles.
@@ -16,4 +18,3 @@ The organization is intentionally small and operator-led. Repositories are used 
 - [jmcte.me](https://github.com/OMT-Global/jmcte.me) - Personal portfolio and agent-readable landing site.
 - [gh-attest](https://github.com/OMT-Global/gh-attest) - Reusable GitHub Actions workflow for AI commit attestations.
 - [apw-cli](https://github.com/OMT-Global/apw-cli) - CLI tooling detached from legacy fork lineage.
-
